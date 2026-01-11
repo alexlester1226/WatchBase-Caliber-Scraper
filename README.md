@@ -44,5 +44,5 @@ The engine extracts and normalizes the following technical specifications:
 * `*.png`: PNG images of different plotted graphs and findings
 
 ---
-**Developed by Alex Lester** *Passionate about turning raw web data into actionable business intelligence.*
-alexlester.org | https://www.linkedin.com/in/alex-lester-4a4a93236/ 
+**Developed by Alex Lester** *Passionate about turning raw web data into actionable business intelligence.
+`https://www.alexlester.org` | `https://www.linkedin.com/in/alex-lester-4a4a93236/` 
