@@ -20,7 +20,7 @@ The engine extracts and normalizes the following technical specifications:
 ## 🛠️ Technical Workflow
 ### 1. Extraction (LLM-Assisted Scraping)
 * Used LLM prompting to iterate and optimize Python-based scraping scripts.
-* Implemented **Selenium/BeautifulSoup** to navigate complex web architectures and bypass common anti-scraping hurdles.
+* Implemented **BeautifulSoup** to navigate complex web architectures and bypass common anti-scraping hurdles.
 
 ### 2. Processing & Normalization
 * **Data Cleaning:** Handled inconsistent units (e.g., converting varied power reserve formats).
