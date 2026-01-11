@@ -41,7 +41,7 @@ The engine extracts and normalizes the following technical specifications:
 * `raw_data.csv`: The final structured output (Sample).
 * `cleaned_data.csv`: The final structured output (Sample).
 * `TruLux.ScrapingProject.Report.pdf`: A detailed breakdown of methodology and findings.
-* *.png: PNG images of different plotted graphs and findings
+* `*.png`: PNG images of different plotted graphs and findings
 
 ---
 **Developed by Alex Lester** *Passionate about turning raw web data into actionable business intelligence.*
