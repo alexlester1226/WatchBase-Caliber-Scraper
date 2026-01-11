@@ -45,4 +45,5 @@ The engine extracts and normalizes the following technical specifications:
 
 ---
 **Developed by Alex Lester** *Passionate about turning raw web data into actionable business intelligence.
-`https://www.alexlester.org` | `https://www.linkedin.com/in/alex-lester-4a4a93236/` 
+[Visit Personal Website](https://www.alexlester.org)
+[Visit LinkedIn](https://www.linkedin.com/in/alex-lester-4a4a93236/)
