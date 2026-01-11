@@ -37,9 +37,11 @@ The engine extracts and normalizes the following technical specifications:
 * **Data Integrity:** Developed techniques to ensure a "structured, high-quality dataset" even when the source HTML was inconsistent.
 
 ## 📂 Repository Contents
-* `trulux_project.py`: The core extraction and cleaning engine.
-* `Watch_Calibers_Dataset.csv`: The final structured output (Sample).
-* `Project_Report.pdf`: A detailed breakdown of methodology and findings.
+* `trulux_project.py`: The core extraction, cleaning and plotting engine.
+* `raw_data.csv`: The final structured output (Sample).
+* `cleaned_data.csv`: The final structured output (Sample).
+* `TruLux.ScrapingProject.Report.pdf`: A detailed breakdown of methodology and findings.
+* *.png: PNG images of different plotted graphs and findings
 
 ---
 **Developed by Alex Lester** *Passionate about turning raw web data into actionable business intelligence.*
